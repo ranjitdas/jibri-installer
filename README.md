@@ -11,9 +11,9 @@ As for our current latest release, as we have integrated more and more features,
 Login into your clean server, clone git repository and run the installer,
 
 ```
-git clone https://github.com/switnet-ltd/quick-jibri-installer
-cd quick-jibri-installer
-sudo bash quick_jibri_installer.sh
+git clone https://github.com/ranjitdas/jibri-installer
+cd jibri-installer
+sudo bash jibri_installer.sh
 ```
 ![QJI - Setup](https://raw.githubusercontent.com/wiki/switnet-ltd/quick-jibri-installer/images/qji-diagram-setup.png)
 
@@ -118,5 +118,3 @@ Feel free to use our `test-jibri-env.sh` tool to find some details on your curre
 * Please check our [wiki](https://github.com/switnet-ltd/quick-jibri-installer/wiki) for further documentation.
 
 Please note: This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.
-
-SwITNet Ltd © - 2021, https://switnet.net/
